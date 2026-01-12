@@ -1,0 +1,14 @@
+# Ignora modulele node
+node_modules/
+*/node_modules/
+
+# Ignora fisiere de sistem
+.DS_Store
+Thumbs.db
+
+# Ignora build-uri locale
+dist/
+build/
+
+# Ignora variabile de mediu (securitate)
+.env
