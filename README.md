@@ -94,7 +94,7 @@ Am adaugat si doua aplicatii JavaScript(una de adaugare și una de ștergere adm
 * **Debugging:** Când am întâmpinat erori obscure (precum conflicte de module Git sau probleme de CORS), am folosit AI pentru a diagnostica cauza și a implementa soluțiile optime.
 * **Securitate:** Am implementat recomandările AI privind securizarea rutelor cu middleware și hash-uirea parolelor, renunțând la stocarea lor în format text.
 
-## 4. Concluzii
+## 5. Concluzii
 
 Pentru noi, acest proiect a reprezentat o provocare tehnică interesantă și o oportunitate de a aprofunda dezvoltarea unei aplicații web.
 
