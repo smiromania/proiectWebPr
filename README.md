@@ -103,7 +103,7 @@ Pentru noi, acest proiect a reprezentat o provocare tehnică interesantă și o 
 * **Limitări la upload:** Inițial, serverul bloca imaginile mari. Am rezolvat problema reconfigurând limita de payload în Express la 50MB.
 * **Paginarea:** Sincronizarea numărului total de pagini între server și client a fost dificilă. Am soluționat acest lucru modificând API-ul să returneze atât lista de date, cât și numărul total de înregistrări (count).
 * **Git Nested Repos:** Am avut probleme cu versionarea din cauza unui repo Git creat automat în folderul clientului. Am corectat structura ștergând fișierele .git interne.
-**Ce am învățat:** Am învățat cum să manipulăm date JSON într-o bază relațională, cum să securizăm o aplicație React și cum să gestionăm starea globală a aplicației pentru filtre și căutări. Considerăm că soluția finală este una robustă și scalabilă.
+#### **Ce am învățat:** Am învățat cum să manipulăm date JSON într-o bază relațională, cum să securizăm o aplicație React și cum să gestionăm starea globală a aplicației pentru filtre și căutări. Considerăm că soluția finală este una robustă și scalabilă.
 
 ## Bibliografie
 
