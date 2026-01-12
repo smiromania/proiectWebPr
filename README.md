@@ -75,7 +75,7 @@ Aici stocăm informațiile despre personaje. Am ales tipul `JSON` pentru flexibi
 }
 ```
 
-### B .Tabelul users (Administratori)
+### B. Tabelul users (Administratori)
 Acest tabel gestionează accesul în panoul de control și securitatea aplicației.
 * id	INT (PK, AI)	Identificator unic al administratorului.
 * username	VARCHAR(255)	Numele de utilizator (trebuie să fie unic).
