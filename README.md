@@ -81,7 +81,7 @@ id	INT (PK, AI)	Identificator unic al administratorului.
 username	VARCHAR(255)	Numele de utilizator (trebuie să fie unic).
 password	VARCHAR(255)	Parola utilizatorului (stocată criptat sub formă de hash).
 
-Am adaugat si doua aplicatii JavaScript(una de adaugare și una de ștergere administratori) tot pe partea de Backend dar nu rulează în fundal și sunt destinate doar manipularii bazei de date de către host.
+Am adaugat si doua aplicatii JavaScript(una de adaugare și una de ștergere administratori) tot pe partea de Backend dar nu rulează în fundal și sunt destinate doar modificării bazei de date de către host.
 
 ## 4. Utilizarea inteligenței artificiale
 
