@@ -58,7 +58,7 @@ const App = () => {
 
         {/* Footer */}
         <footer className="bg-gray-800 text-gray-500 text-center py-4 border-t border-gray-700 text-sm z-10 relative">
-          &copy; 2024 Rick & Morty Portal System
+          &copy; 2026 Ionel & Alex
         </footer>
 
       </div>
